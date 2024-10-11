@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "753055479437",
+    "firebase_url": "https://qlsp-7e699-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "qlsp-7e699",
+    "storage_bucket": "qlsp-7e699.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753055479437:android:bf57b4f8eb5f0a713694c4",
+        "android_client_info": {
+          "package_name": "com.example.qlsanpham"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8pbIp1BeZcjHJmIT5Z2bt57QDV_5NnPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
